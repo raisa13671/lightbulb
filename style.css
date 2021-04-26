@@ -1,0 +1,25 @@
+body {
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    background:  linear-gradient(90deg, hsl(57, 100%, 75%), hsl(57, 100%, 82%), hsl(57, 100%, 90%)); 
+    padding: 10px;
+    margin: 0;
+    
+}
+.btn{
+  border: none;
+  margin: 6px;
+  padding: 7px;
+  width: auto;
+  font-famiy: 'Handlee', cursive;
+ 
+ border-radius: 6px;
+ cursor: pointer;
+ color: #000;
+ background-size: 200%;
+ 
+}
+
+.gm{
+  background-image: linear-gradient(to left, rgb(204, 97, 214), rgb(207, 184, 236), rgba(100, 90, 240, 0.753));
+}
